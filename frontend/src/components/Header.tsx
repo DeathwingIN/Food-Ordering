@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { MobileNav } from './MobileNav'
+import { MainNav } from './MainNav'
 
 export default function Header() {
     return (
@@ -14,6 +15,10 @@ export default function Header() {
 
                 <div className={"md:hidden"}>
                     <MobileNav/>
+                </div>
+
+                <div className={"hidden md:block"}>
+                    <MainNav/>
                 </div>
             </div>
 
