@@ -15,8 +15,8 @@ This Enterprise Level Food Ordering Web Application is designed to connect resta
 - **Advanced Search:** Implemented advanced search capabilities with sorting, filtering options, and pagination to enhance user convenience.
 - **Cart Management:** Managed cart functionalities for adding, updating, and removing items, and integrated a secure checkout process using Stripe.
 
-
-## Installation
+<!---
+ ## Installation
 
 ### Prerequisites
 - Node.js
@@ -66,3 +66,4 @@ This Enterprise Level Food Ordering Web Application is designed to connect resta
 
 ## Usage
 - Access the application at `http://localhost:3000`
+-->
